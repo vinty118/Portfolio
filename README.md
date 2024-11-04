@@ -1,13 +1,13 @@
 A PIZZA STORE ANALYSIS
 Analysing Sales Trends, Top Product and Customer preference
 
-** INTRODUCTION**
+**INTRODUCTION**
 A pizza sales store wants to improve its business by analysing its sales performace over the year. The store seeks key insights into various aspects such as sales monthly trend avergae pizza per orderand best and worst sellers.In this presentation we will talk about and explain the analysis report that will answer the questions and will help guide the company.
 
 **OBJECTIVES**
 Identify and analyze key indicators for our Pizza sales data to gain insights into the business performance.
-**PROBLEM STATEMENT**
 
+**PROBLEM STATEMENT**
  Uncovering patterns in the sales data to able informed decisions to be made regarding menu optimization, price strategies and inventory management to enhance profitability and sales.
 
 **BUSINESS QUESTIONS ON SALES ANALYSIS**
